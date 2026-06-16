@@ -1,0 +1,23 @@
+{
+  "itemGroup.springmahjong": "SpringMahjong",
+  "block.springmahjong.mahjong_table": "麻将桌",
+  "block.springmahjong.test_mahjong_table": "测试麻将桌",
+  "block.springmahjong.mahjong_chair": "麻将椅",
+
+  "command.springmahjong.create": "已创建麻将桌！使用 /mahjong join 加入。",
+  "command.springmahjong.join": "你已加入麻将桌。",
+  "command.springmahjong.join.sat": "你坐在了 %s 位。",
+  "command.springmahjong.leave": "你已离开麻将桌。",
+  "command.springmahjong.start": "游戏开始！",
+  "command.springmahjong.start.bots": "空位已由电脑填充。",
+  "command.springmahjong.addbot": "Bot-%s 已添加到 %s 位。",
+  "command.springmahjong.no_session": "你不在麻将桌旁。",
+  "command.springmahjong.no_seats": "没有可用的座位。",
+  "command.springmahjong.seat_occupied": "%s 位已被占用。",
+  "command.springmahjong.invalid_seat": "无效座位。请使用: EAST, SOUTH, WEST, NORTH",
+  "command.springmahjong.player_only": "此命令仅限玩家使用。",
+
+  "message.springmahjong.settlement": "%s 和牌！总番数: %d",
+  "message.springmahjong.draw": "流局 - 无人和牌",
+  "message.springmahjong.game_end": "游戏结束！冠军: %s"
+}

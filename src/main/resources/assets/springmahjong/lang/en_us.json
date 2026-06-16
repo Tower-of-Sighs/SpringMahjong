@@ -1,5 +1,23 @@
 {
-  "itemGroup.springmahjong": "Example Mod Tab",
-  "block.springmahjong.example_block": "Example Block",
-  "item.springmahjong.example_item": "Example Item"
+  "itemGroup.springmahjong": "SpringMahjong",
+  "block.springmahjong.mahjong_table": "Mahjong Table",
+  "block.springmahjong.test_mahjong_table": "Test Mahjong Table",
+  "block.springmahjong.mahjong_chair": "Mahjong Chair",
+
+  "command.springmahjong.create": "Mahjong table created! Use /mahjong join to sit down.",
+  "command.springmahjong.join": "You joined the mahjong table.",
+  "command.springmahjong.join.sat": "You sat at %s.",
+  "command.springmahjong.leave": "You left the mahjong table.",
+  "command.springmahjong.start": "Game started!",
+  "command.springmahjong.start.bots": "Filling empty seats with bots...",
+  "command.springmahjong.addbot": "Bot-%s added to seat %s.",
+  "command.springmahjong.no_session": "You are not at a mahjong table.",
+  "command.springmahjong.no_seats": "No available seats.",
+  "command.springmahjong.seat_occupied": "Seat %s is already occupied.",
+  "command.springmahjong.invalid_seat": "Invalid seat. Use: EAST, SOUTH, WEST, NORTH",
+  "command.springmahjong.player_only": "Player only command.",
+
+  "message.springmahjong.settlement": "Player %s wins! Total fan: %d",
+  "message.springmahjong.draw": "Draw game - no winner.",
+  "message.springmahjong.game_end": "Game over! Champion: %s"
 }

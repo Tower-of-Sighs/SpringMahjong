@@ -1,0 +1,107 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"elements": [
+		{
+			"from": [5.5, 0, 4.5],
+			"to": [6, 3, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"color": 6,
+			"faces": {
+				"north": {"uv": [5.5, 1, 6, 4], "texture": "#tile"},
+				"east": {"uv": [0, 1, 7, 4], "texture": "#tile"},
+				"south": {"uv": [0, 1, 0.5, 4], "texture": "#tile"},
+				"west": {"uv": [1, 1, 8, 4], "texture": "#tile"},
+				"up": {"uv": [0, 1, 0.5, 8], "texture": "#tile"},
+				"down": {"uv": [0, 0, 0.5, 7], "texture": "#tile"}
+			}
+		},
+		{
+			"from": [10, 0, 4.5],
+			"to": [10.5, 3, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 0, 7]},
+			"color": 6,
+			"faces": {
+				"north": {"uv": [5.5, 1, 6, 4], "texture": "#tile"},
+				"east": {"uv": [0, 1, 7, 4], "texture": "#tile"},
+				"south": {"uv": [0, 1, 0.5, 4], "texture": "#tile"},
+				"west": {"uv": [1, 1, 8, 4], "texture": "#tile"},
+				"up": {"uv": [0, 1, 0.5, 8], "texture": "#tile"},
+				"down": {"uv": [0, 0, 0.5, 7], "texture": "#tile"}
+			}
+		},
+		{
+			"from": [6, 0, 4],
+			"to": [10, 3, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"color": 6,
+			"faces": {
+				"north": {"uv": [1, 1, 5, 4], "texture": "#tile"},
+				"east": {"uv": [0, 1, 8, 4], "texture": "#tile"},
+				"south": {"uv": [1, 1, 5, 4], "texture": "#tile"},
+				"west": {"uv": [0, 1, 8, 4], "texture": "#tile"},
+				"up": {"uv": [1, 0, 5, 8], "texture": "#tile"},
+				"down": {"uv": [1, 0, 5, 8], "texture": "#tile"}
+			}
+		},
+		{
+			"from": [5.4, 0, 12.7],
+			"to": [5.8, 2.99, 13.4],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 0, 12]},
+			"color": 7,
+			"faces": {
+				"north": {"uv": [1, 0.01, 1.4, 3], "texture": "#tile"},
+				"east": {"uv": [1.3, 0.01, 2, 3], "texture": "#tile"},
+				"south": {"uv": [1, 0.01, 1.4, 3], "texture": "#tile"},
+				"west": {"uv": [0, 0.01, 0.7, 3], "texture": "#tile"},
+				"up": {"uv": [1, 0, 1.4, 0.7], "texture": "#tile"},
+				"down": {"uv": [1, 1.3, 1.4, 2], "texture": "#tile"}
+			}
+		},
+		{
+			"from": [9.01, 0, 5.4],
+			"to": [9.41, 2.99, 6.1],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 4]},
+			"color": 7,
+			"faces": {
+				"north": {"uv": [1, 0.01, 1.4, 3], "texture": "#tile"},
+				"east": {"uv": [1.3, 0.01, 2, 3], "texture": "#tile"},
+				"south": {"uv": [1, 0.01, 1.4, 3], "texture": "#tile"},
+				"west": {"uv": [0, 0.01, 0.7, 3], "texture": "#tile"},
+				"up": {"uv": [1, 0, 1.4, 0.7], "texture": "#tile"},
+				"down": {"uv": [1, 1.3, 1.4, 2], "texture": "#tile"}
+			}
+		},
+		{
+			"from": [7.4, 0, 3.42],
+			"to": [7.8, 2.99, 4.12],
+			"rotation": {"angle": -45, "axis": "y", "origin": [6, 0, 2]},
+			"color": 7,
+			"faces": {
+				"north": {"uv": [1, 0.01, 1.4, 3], "texture": "#tile"},
+				"east": {"uv": [1.3, 0.01, 2, 3], "texture": "#tile"},
+				"south": {"uv": [1, 0.01, 1.4, 3], "texture": "#tile"},
+				"west": {"uv": [0, 0.01, 0.7, 3], "texture": "#tile"},
+				"up": {"uv": [1, 0, 1.4, 0.7], "texture": "#tile"},
+				"down": {"uv": [1, 1.3, 1.4, 2], "texture": "#tile"}
+			}
+		},
+		{
+			"from": [11.3, 0, 11.4],
+			"to": [11.7, 2.99, 12.1],
+			"rotation": {"angle": -45, "axis": "y", "origin": [11, 0, 10]},
+			"color": 7,
+			"faces": {
+				"north": {"uv": [1, 0.01, 1.4, 3], "texture": "#tile"},
+				"east": {"uv": [1.3, 0.01, 2, 3], "texture": "#tile"},
+				"south": {"uv": [1, 0.01, 1.4, 3], "texture": "#tile"},
+				"west": {"uv": [0, 0.01, 0.7, 3], "texture": "#tile"},
+				"up": {"uv": [1, 0, 1.4, 0.7], "texture": "#tile"},
+				"down": {"uv": [1, 1.3, 1.4, 2], "texture": "#tile"}
+			}
+		}
+	],
+	"textures": {
+		"tile": "springmahjong:entity/mahjong_tile"
+	}
+}

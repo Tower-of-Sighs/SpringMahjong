@@ -1,0 +1,20 @@
+{
+  "textures": {
+    "tile": "springmahjong:block/mahjong_tile",
+    "particle": "springmahjong:block/mahjong_tile"
+  },
+  "elements": [
+    {
+      "from": [5.4, 0, 3.42],
+      "to": [11.7, 3, 13.4],
+      "faces": {
+        "north": {"uv": [0.25, 0.25, 3.75, 2.75], "texture": "#tile"},
+        "east": {"uv": [0.25, 0.25, 3.75, 2.75], "texture": "#tile"},
+        "south": {"uv": [0.25, 0.25, 3.75, 2.75], "texture": "#tile"},
+        "west": {"uv": [0.25, 0.25, 3.75, 2.75], "texture": "#tile"},
+        "up": {"uv": [4.25, 0.25, 7.75, 4.75], "texture": "#tile"},
+        "down": {"uv": [0.25, 0.25, 3.75, 2.75], "texture": "#tile"}
+      }
+    }
+  ]
+}

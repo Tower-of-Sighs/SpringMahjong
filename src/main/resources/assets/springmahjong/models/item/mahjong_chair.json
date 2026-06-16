@@ -1,0 +1,28 @@
+{
+  "parent": "springmahjong:block/chair",
+  "display": {
+    "gui": {
+      "rotation": [30, 225, 0],
+      "translation": [0, -1, 0],
+      "scale": [0.55, 0.55, 0.55]
+    },
+    "ground": {
+      "translation": [0, 2, 0],
+      "scale": [0.28, 0.28, 0.28]
+    },
+    "fixed": {
+      "rotation": [0, 225, 0],
+      "scale": [0.55, 0.55, 0.55]
+    },
+    "thirdperson_righthand": {
+      "rotation": [65, 225, 0],
+      "translation": [0, 1.5, 0],
+      "scale": [0.38, 0.38, 0.38]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, 225, 0],
+      "translation": [0, 1, 0],
+      "scale": [0.36, 0.36, 0.36]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "springmahjong:block/chair", "y": 180 },
+		"facing=east":  { "model": "springmahjong:block/chair", "y": 270 },
+		"facing=south": { "model": "springmahjong:block/chair", "y": 0 },
+		"facing=west":  { "model": "springmahjong:block/chair", "y": 90 }
+	}
+}

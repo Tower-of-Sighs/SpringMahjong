@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "springmahjong:block/mahjong_table"
+		}
+	}
+}
